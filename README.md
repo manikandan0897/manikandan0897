@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mani Kandan</h1>
 
 
-I'm a passionate full stack and Blockchain developer from India, mainly self-taught, a fast learner, and a challenge seeker. I'm in love with my family, Blockchain and I want to build the best software in the web3 world.
+I'm a passionate full stack Blockchain developer from India, mainly self-taught, a fast learner, and a challenge seeker. I'm in love with my family, Blockchain and I want to build the best software in the web3 world.
 
 ### 👨🏻‍💻 About Me
 
