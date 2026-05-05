@@ -114,13 +114,10 @@
 
 <body>
   <div class="container">
-
-    <!-- Header -->
     <header>
       <h1>Hi 👋, I'm Mani Kandan</h1>
       <p>Senior Blockchain Engineer | DeFi Architect | Cross-Chain Systems</p>
     </header>
-
     <!-- About -->
     <section class="section about">
       <h2>👨🏻‍💻 About Me</h2>
@@ -131,7 +128,6 @@
         system reliability, and secure smart contract design.
       </p>
     </section>
-
     <!-- Skills -->
     <section class="section">
       <h2>🛠 Tech Stack</h2>
@@ -150,35 +146,28 @@
         <div class="skill">Hyperledger</div>
       </div>
     </section>
-
     <!-- Projects -->
     <section class="section">
       <h2>🚀 Key Projects</h2>
       <div class="projects">
-
         <div class="card">
           <h3>DEX (Uniswap v2/v3)</h3>
           <p>Built high-performance decentralized exchange handling 1000+ daily swaps with optimized liquidity logic.</p>
         </div>
-
         <div class="card">
           <h3>Cross-Chain Lottery</h3>
           <p>Developed LayerZero-based lottery system with Chainlink VRF and 99.9% reliability.</p>
         </div>
-
         <div class="card">
           <h3>RWA Tokenization</h3>
           <p>Implemented ERC-3643 compliant asset tokenization platform with KYC/AML enforcement.</p>
         </div>
-
         <div class="card">
           <h3>Hyperledger Supply Chain</h3>
           <p>Enterprise-grade blockchain system with tamper-proof tracking and audit trails.</p>
         </div>
-
       </div>
     </section>
-
     <!-- Contact -->
     <section class="section contact">
       <h2>🔗 Connect</h2>
@@ -186,7 +175,6 @@
       <a href="#" target="_blank">LinkedIn</a>
       <a href="mailto:manidsamy888@gmail.com">Email</a>
     </section>
-
     <!-- Footer -->
     <footer>
       <p>© 2026 Mani Kandan | Built with ❤️ in Web3</p>
