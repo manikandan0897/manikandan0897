@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/maniclarisco"><img src="https://img.shields.io/badge/GitHub-maniclarisco-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:manidsamy888@gmail.com"><img src="https://img.shields.io/badge/Email-manidsamy888@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-58A6FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Contracts%20Shipped-15%2B-3FB950?style=flat-square"/>
@@ -155,6 +154,6 @@ Sethu Institute of Technology, Madurai — 2016–2020
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/maniclarisco"><img src="https://img.shields.io/badge/GitHub-maniclarisco-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/mani-kandan-55a373167/"><img src="https://img.shields.io/badge/LinkedIn-Mani%20Kandan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:manidsamy888@gmail.com"><img src="https://img.shields.io/badge/Email-manidsamy888@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
